@@ -2,4 +2,8 @@
 *.iws
 *.iml
 *.ipr
-
+*.class
+*.project
+.idea/
+*/*.iml/
+.DS_Store
